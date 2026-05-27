@@ -1,0 +1,20 @@
+.myform{
+    background-color: cadetblue;
+    width: 300px;
+    /* margin-left: 30%; */
+    border-radius: 10px;
+    padding: 30px;
+    align-items: center;
+}
+
+h2{
+    color:brown;
+}
+
+#mypara{
+    background-color: cornflowerblue;
+    margin-left: 10%;
+    margin-right: 10%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
